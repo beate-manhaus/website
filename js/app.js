@@ -36,8 +36,8 @@ particlesJS('particles-js',
         },
         "image": {
           "src": "img/github.svg",
-          "width": ,
-          "height": 
+          "width": 100,
+          "height": 100
         }
       },
       "opacity": {
