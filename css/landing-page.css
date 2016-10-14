@@ -182,3 +182,12 @@ p.copyright {
   top: 0;
   left: 0;
 }
+
+.hero-wrap {
+    min-height: 340px;
+    max-height: 800px;
+    overflow: hidden;
+    top: 0px;
+    position: relative;
+    width: 100%;
+}
